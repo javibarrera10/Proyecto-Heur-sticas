@@ -1,0 +1,15 @@
+instancia,métrica,U_statistic,p_valor,significativo (α=0.05)
+test_system_1.json,objetivo,78.0,3.964765355918728e-08,Sí
+test_system_1.json,servicio,106.0,3.805262810100767e-07,Sí
+test_system_2.json,objetivo,0.0,3.019859359162157e-11,Sí
+test_system_2.json,servicio,0.0,3.019859359162157e-11,Sí
+test_system_3.json,objetivo,352.0,0.1494487062304632,No
+test_system_3.json,servicio,441.0,0.8999950372363642,No
+test_system_4.json,objetivo,3.0,4.0771648468253186e-11,Sí
+test_system_4.json,servicio,9.0,7.389082518022347e-11,Sí
+test_system_5.json,objetivo,0.0,3.019859359162157e-11,Sí
+test_system_5.json,servicio,900.0,3.019859359162157e-11,Sí
+test_system_6.json,objetivo,28.0,4.6159103691111474e-10,Sí
+test_system_6.json,servicio,893.0,6.065757009046712e-11,Sí
+test_system_7.json,objetivo,26.0,3.8201597819993253e-10,Sí
+test_system_7.json,servicio,856.0,2.0337965170597153e-09,Sí
